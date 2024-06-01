@@ -1,0 +1,23 @@
+eventify/
+├── app/
+│   ├── __init__.py
+│   ├── routes.py
+│   ├── models.py
+│   ├── forms.py
+│   └── templates/
+│       ├── static/
+│       │   ├── css/
+│       │   │   └── style.css
+│       │   ├── js/
+│       │   │   └── script.js
+│       │   └── images/
+│       ├── base.html
+│       ├── index.html
+│       ├── login.html
+│       ├── register.html
+│       ├── event_list.html
+│       └── event_detail.html
+├── venv/
+├── config.py
+├── run.py
+└── requirements.txt
